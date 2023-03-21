@@ -19,6 +19,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       drawer: Drawer(),
       body: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
         // ignore: prefer_const_literals_to_create_immutables
         children: [
           Center(
