@@ -13,6 +13,7 @@ class MyLoginPage extends StatefulWidget {
 class _MyLoginPageState extends State<MyLoginPage> {
   String name = '';
   bool isbutton = false;
+  //Animated Page Done
 
   @override
   Widget build(BuildContext context) {
